@@ -340,3 +340,4 @@ bindsym Mod1+r exec --no-startup-id st -e ranger
 bindsym Mod1+h exec --no-startup-id st -e htop
 bindsym Mod1+t exec --no-startup-id Thunar
 bindsym Mod1+l exec --no-startup-id i3lock
+bindsym $mod+F4 exec --no-startup-id gmrun
